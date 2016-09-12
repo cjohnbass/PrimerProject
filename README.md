@@ -1,7 +1,7 @@
 # 490primer
 COMP 490 CGI program
 
-To access the page:
+#Web Page:
 # www.csun.edu/~cjb82897/cgi-bin/simple.cgi
 ~cjb82897/cgi-bin/simple.cgi?query.html is the query request page.
 
